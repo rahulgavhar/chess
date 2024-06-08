@@ -1,0 +1,23 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "Online Chess Platform for Multiplayer Gaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgavhar/chess.git"
+  },
+  "author": "rahulgavhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulgavhar/chess/issues"
+  },
+  "homepage": "https://github.com/rahulgavhar/chess#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "react": "^18.3.1"
+  }
+}
